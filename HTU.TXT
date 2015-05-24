@@ -1,0 +1,19 @@
+				How to use:
+
+
+
+*  For navigation in menus, use the arrow keys.
+	**  Press UP ARROW KEY to move up
+	**  Press DOWN ARROW KEY to move down
+
+
+
+*  To select the option or to move on to the next feild use ENTER.
+
+
+
+*  '|' show the postion of the cursor in the graphics screen.
+
+
+
+*  Press ESC when in menus to quit th program
